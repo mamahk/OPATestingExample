@@ -1,0 +1,40 @@
+{
+  "run": [
+    {
+      "filePath": "/webapp/testing-resources/opaTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "qunitrunner",
+        "id": 9789570,
+        "displayName": "Run opaTests.qunit.html",
+        "lastRunTimeStamp": 1523344638118
+      }
+    },
+    {
+      "filePath": "/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "urlParametersNotNeeded": false,
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 929423,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1523342493223
+      }
+    }
+  ]
+}

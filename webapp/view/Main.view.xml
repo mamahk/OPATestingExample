@@ -1,0 +1,19 @@
+<mvc:View controllerName="sap.training.opatestOPATesting.controller.Main" xmlns:html="http://www.w3.org/1999/xhtml"
+	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<headerContent>
+					<Button id="headerButton" text="Header button"/>
+				</headerContent>
+				<content>
+					<Label text="Firstname"/>
+					<Input value="Max"/>
+					<Label text="Lastname" />
+					<Input value="Muller" />
+					<Button id="helloButton" text="Press me" press="handlePress" />
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

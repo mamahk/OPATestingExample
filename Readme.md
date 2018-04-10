@@ -1,0 +1,1 @@
+This is the UI5 demo app in UX410 for the OPA automated test.
